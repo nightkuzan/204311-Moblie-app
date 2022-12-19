@@ -101,7 +101,23 @@ class _MyappState extends State<Myapp> {
                           child: Icon(
                             Icons.circle,
                             color: Color.fromARGB(255, 255, 255, 255),
-                            size: 8,
+                            size: 10,
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 10,
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 10,
                           ),
                         ),
                         Padding(
@@ -117,23 +133,7 @@ class _MyappState extends State<Myapp> {
                           child: Icon(
                             Icons.circle,
                             color: Color.fromARGB(255, 224, 224, 224),
-                            size: 8,
-                          ),
-                        ),
-                        Padding(
-                          padding: EdgeInsets.only(right: 3.0),
-                          child: Icon(
-                            Icons.circle,
-                            color: Color.fromARGB(255, 224, 224, 224),
-                            size: 8,
-                          ),
-                        ),
-                        Padding(
-                          padding: EdgeInsets.only(right: 3.0),
-                          child: Icon(
-                            Icons.circle,
-                            color: Color.fromARGB(255, 224, 224, 224),
-                            size: 8,
+                            size: 10,
                           ),
                         ),
                       ],
@@ -380,8 +380,10 @@ class _MyappState extends State<Myapp> {
                             ),
                             Row(
                               children: const [
-                                Icon(Icons.thermostat,
-                                    color: Color.fromARGB(255, 207, 207, 207)),
+                                Icon(
+                                  Icons.thermostat,
+                                  color: Color.fromARGB(255, 207, 207, 207),
+                                ),
                                 SizedBox(
                                   width: 10,
                                 ),

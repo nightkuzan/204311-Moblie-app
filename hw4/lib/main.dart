@@ -55,102 +55,94 @@ class _MyappState extends State<Myapp> {
         body: (SingleChildScrollView(
           child: Stack(
             children: <Widget>[
-              AspectRatio(
-                aspectRatio: 16 / 9,
-                child: Image.asset(
-                  "images/shang.png",
-                  fit: BoxFit.cover,
-                ),
-              ),
-              // text
-              Container(
-                margin: EdgeInsets.only(top: 200),
-                child: Column(children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    // make to bottom
-                    crossAxisAlignment: CrossAxisAlignment.end,
-                    children: [
-                      Padding(
-                          padding: EdgeInsets.only(left: 182, bottom: 20),
-                          child: Row(
-                            children: const [
-                              Padding(
-                                padding: EdgeInsets.only(right: 3.0),
-                                child: Icon(
-                                  Icons.circle,
-                                  color: Color.fromARGB(255, 255, 255, 255),
-                                  size: 8,
-                                ),
-                              ),
-                              Padding(
-                                padding: EdgeInsets.only(right: 3.0),
-                                child: Icon(
-                                  Icons.circle,
-                                  color: Color.fromARGB(255, 224, 224, 224),
-                                  size: 8,
-                                ),
-                              ),
-                              Padding(
-                                padding: EdgeInsets.only(right: 3.0),
-                                child: Icon(
-                                  Icons.circle,
-                                  color: Color.fromARGB(255, 224, 224, 224),
-                                  size: 8,
-                                ),
-                              ),
-                              Padding(
-                                padding: EdgeInsets.only(right: 3.0),
-                                child: Icon(
-                                  Icons.circle,
-                                  color: Color.fromARGB(255, 224, 224, 224),
-                                  size: 8,
-                                ),
-                              ),
-                              Padding(
-                                padding: EdgeInsets.only(right: 3.0),
-                                child: Icon(
-                                  Icons.circle,
-                                  color: Color.fromARGB(255, 224, 224, 224),
-                                  size: 8,
-                                ),
-                              ),
-                            ],
-                          )),
-                      Container(
-                        margin: EdgeInsets.only(
-                          left: 80,
-                        ),
-                        width: 100,
-                        height: 50,
-                        padding: EdgeInsets.all(10),
-                        decoration: BoxDecoration(
-                            color: Color.fromRGBO(0, 0, 0, 0.8),
-                            borderRadius: BorderRadius.circular(30)),
-                        child: Container(
-                          alignment: Alignment.center,
-                          child: Row(
-                            children: const [
-                              Icon(Icons.photo_library_outlined,
-                                  color: Colors.white),
-                              Text(
-                                '61',
-                                style: TextStyle(
-                                  color: Colors.grey,
-                                  // fontSize: 20,
-                                  fontWeight: FontWeight.bold,
-                                ),
-                              ),
-                            ],
+              Stack(
+                alignment: Alignment.bottomCenter,
+                children: [
+                  AspectRatio(
+                    aspectRatio: 16 / 9,
+                    child: Image.asset(
+                      "images/shang.png",
+                      fit: BoxFit.cover,
+                    ),
+                  ),
+                  Positioned(
+                    bottom: 10,
+                    right: 10,
+                    child: Container(
+                      width: 100,
+                      height: 50,
+                      padding: EdgeInsets.all(10),
+                      decoration: BoxDecoration(
+                          color: Color.fromRGBO(0, 0, 0, 0.8),
+                          borderRadius: BorderRadius.circular(30)),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: const [
+                          Icon(Icons.photo_library_outlined,
+                              color: Colors.white),
+                          Text(
+                            '61',
+                            style: TextStyle(
+                              color: Colors.grey,
+                              // fontSize: 20,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                  Positioned(
+                    bottom: 10,
+                    child: Row(
+                      children: const [
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 255, 255, 255),
+                            size: 8,
                           ),
                         ),
-                      ),
-                    ],
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 8,
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 8,
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 8,
+                          ),
+                        ),
+                        Padding(
+                          padding: EdgeInsets.only(right: 3.0),
+                          child: Icon(
+                            Icons.circle,
+                            color: Color.fromARGB(255, 224, 224, 224),
+                            size: 8,
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
-                ]),
-
-                // text
+                ],
               ),
+
+              // text
               Container(
                 padding: EdgeInsets.only(top: 250, left: 15),
                 child: Positioned(

@@ -17,15 +17,26 @@ class MyApp extends StatefulWidget {
   const MyApp({super.key, required this.items});
 
   @override
-  _MyAppState createState() => _MyAppState();
+  MyAppState createState() => MyAppState();
 }
 
-class _MyAppState extends State<MyApp> {
+class MyAppState extends State<MyApp> {
   var count = 0;
 // ignore: no_leading_underscores_for_local_identifiers
   final List<bool> _iconTapped = List<bool>.generate(150, (i) => false);
   // List<Color> iconcolor = List<Color>.generate(150, (i) => Colors.black);
   var title = 'Pokemon List';
+
+  void favState(int index, int i) {
+    setState(() {
+      _iconTapped[index * 3 + i - 1] = !_iconTapped[index * 3 + i - 1];
+      if (_iconTapped[index * 3 + i - 1]) {
+        count++;
+      } else {
+        count--;
+      }
+    });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -49,14 +60,7 @@ class _MyAppState extends State<MyApp> {
                     Image.network(widget.items[index * 3]),
                     InkWell(
                       onTap: () {
-                        setState(() {
-                          _iconTapped[index * 3] = !_iconTapped[index * 3];
-                          if (_iconTapped[index * 3]) {
-                            count++;
-                          } else {
-                            count--;
-                          }
-                        });
+                        favState(index, 1);
                       },
                       child: Icon(
                         _iconTapped[index * 3]
@@ -75,15 +79,7 @@ class _MyAppState extends State<MyApp> {
                     Image.network(widget.items[index * 3 + 1]),
                     InkWell(
                       onTap: () {
-                        setState(() {
-                          _iconTapped[index * 3 + 1] =
-                              !_iconTapped[index * 3 + 1];
-                          if (_iconTapped[index * 3 + 1]) {
-                            count++;
-                          } else {
-                            count--;
-                          }
-                        });
+                        favState(index, 2);
                       },
                       child: Icon(
                         _iconTapped[index * 3 + 1]
@@ -103,15 +99,7 @@ class _MyAppState extends State<MyApp> {
                     Image.network(widget.items[index * 3 + 2]),
                     InkWell(
                       onTap: () {
-                        setState(() {
-                          _iconTapped[index * 3 + 2] =
-                              !_iconTapped[index * 3 + 2];
-                          if (_iconTapped[index * 3 + 2]) {
-                            count++;
-                          } else {
-                            count--;
-                          }
-                        });
+                        favState(index, 3);
                       },
                       child: Icon(
                         _iconTapped[index * 3 + 2]

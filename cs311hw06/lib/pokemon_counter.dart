@@ -1,3 +1,5 @@
+import 'package:cs311hw06/pokemon_them.dart';
+
 import 'pokemon_service.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -13,11 +15,12 @@ class PokemonCounter extends StatefulWidget {
 class _PokemonCounterState extends State<PokemonCounter> {
   @override
   Widget build(BuildContext context) {
-    return Consumer<PokemonService>(
-      builder: (_, pokemonService, __) {
+    return Consumer2<PokemonService,PokemonThem>(
+      builder: (_, pokemonService,pokemonTheme, __) {
         return Scaffold(
           appBar: AppBar(
             title: const Text('Pokemon Count'),
+            backgroundColor:pokemonTheme.currentTheme, 
           ),
           body: const Center(
             child: Count(),

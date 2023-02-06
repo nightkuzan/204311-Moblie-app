@@ -1,0 +1,818 @@
+[
+    {
+        "TambonEng": "Si Phum",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Phra Sing",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Hai Ya",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Chang Moi",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Chang Khlan",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Wat Ket",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Chang Phueak",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Suthep",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Mae Hia",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Pa Daet",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Nong Hoi",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Tha Sala",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Nong Pa Khrang",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Fa Ham",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Pa Tan",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "San Phi Suea",
+        "DistrictEngShort": "Mueang Chiang Mai"
+    },
+    {
+        "TambonEng": "Ban Luang",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Khuang Pao",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Sop Tia",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Ban Pae",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Doi Kaeo",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Mae Soi",
+        "DistrictEngShort": "Chom Thong"
+    },
+    {
+        "TambonEng": "Chang Khoeng",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "The Pha",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Ban Thap",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Mae Suek",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Mae Na Chon",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Pang Hin Fon",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Kong Khaek",
+        "DistrictEngShort": "Mae Chaem"
+    },
+    {
+        "TambonEng": "Chiang Dao",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Mueang Na",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Mueang Ngai",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Mae Na",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Mueang Khong",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Ping Khong",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Thung Khao Phuang",
+        "DistrictEngShort": "Chiang Dao"
+    },
+    {
+        "TambonEng": "Choeng Doi",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "San Pu Loei",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Luang Nuea",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Pa Pong",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Sa-nga Ban",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Pa Lan",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Talat Khwan",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Samran Rat",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Mae Khue",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Talat Yai",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Mae Hoi Ngoen",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Mae Pong",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Pa Miang",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "Thep Sadet",
+        "DistrictEngShort": "Doi Saket"
+    },
+    {
+        "TambonEng": "San Maha Phon",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Mae Taeng",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Khilek",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Cho Lae",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Mae Ho Phra",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Sop Poeng",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Ban Pao",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "San Pa Yang",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Pa Pae",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Mueang Kai",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Ban Chang",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Kuet Chang",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Inthakhin",
+        "DistrictEngShort": "Mae Taeng"
+    },
+    {
+        "TambonEng": "Rim Tai",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Rim Nuea",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "San Pong",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Khilek",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Saluang",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Huai Sai",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Mae Raem",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Pong Yaeng",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Mae Sa",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Don Kaeo",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Mueang Kaeo",
+        "DistrictEngShort": "Mae Rim"
+    },
+    {
+        "TambonEng": "Samoeng Tai",
+        "DistrictEngShort": "Samoeng"
+    },
+    {
+        "TambonEng": "Samoeng Nuea",
+        "DistrictEngShort": "Samoeng"
+    },
+    {
+        "TambonEng": "Mae Sap",
+        "DistrictEngShort": "Samoeng"
+    },
+    {
+        "TambonEng": "Bo Kaeo",
+        "DistrictEngShort": "Samoeng"
+    },
+    {
+        "TambonEng": "Yang Moen",
+        "DistrictEngShort": "Samoeng"
+    },
+    {
+        "TambonEng": "Wiang",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mon Pin",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mae Ngon",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mae Sun",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "San Sai",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mae Kha",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mae Kha",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Pong Nam Ron",
+        "DistrictEngShort": "Fang"
+    },
+    {
+        "TambonEng": "Mae Ai",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Mae Sao",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "San Ton Mue",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Mae Na Wang",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Tha Ton",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Ban Luang",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Malika",
+        "DistrictEngShort": "Mae Ai"
+    },
+    {
+        "TambonEng": "Wiang",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Thung Luang",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Pa Tum",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Pa Nai",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "San Sai",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Ban Pong",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Nam Phrae",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Khuean Phak",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Mae Waen",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Mae Pang",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Long Khot",
+        "DistrictEngShort": "Phrao"
+    },
+    {
+        "TambonEng": "Yu Wa",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "San Klang",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Tha Wang Phrao",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Makham Luang",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Mae Ka",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Ban Mae",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Ban Klang",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Thung Satok",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Thung Tom",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Nam Bo Luang",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "Makhun Wan",
+        "DistrictEngShort": "San Pa Tong"
+    },
+    {
+        "TambonEng": "San Kamphaeng",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Sai Mun",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Rong Wua Daeng",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Buak Khang",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Chae Chang",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "On Tai",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Mae Pu Kha",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Huai Sai",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "Ton Pao",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "San Klang",
+        "DistrictEngShort": "San Kamphaeng"
+    },
+    {
+        "TambonEng": "San Sai Luang",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "San Sai Noi",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "San Phra Net",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "San Na Meng",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "San Pa Pao",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Nong Yaeng",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Nong Chom",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Nong Han",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Mae Faek",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Mae Faek Mai",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Mueang Len",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Pa Phai",
+        "DistrictEngShort": "San Sai"
+    },
+    {
+        "TambonEng": "Hang Dong",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Nong Kaeo",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Han Kaeo",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Nong Tong",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Khun Khong",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Sop Mae Kha",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Ban Waen",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "San Phak Wan",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Nong Khwai",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Ban Pong",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Nam Phrae",
+        "DistrictEngShort": "Hang Dong"
+    },
+    {
+        "TambonEng": "Hang Dong",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Hot",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Ban Tan",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Bo Luang",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Bo Sali",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Na Kho Ruea",
+        "DistrictEngShort": "Hot"
+    },
+    {
+        "TambonEng": "Doi Tao",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Tha Duea",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Muet Ka",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Ban Aen",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Bong Tan",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Pong Thung",
+        "DistrictEngShort": "Doi Tao"
+    },
+    {
+        "TambonEng": "Omkoi",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Yang Piang",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Mae Tuen",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Mon Chong",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Sop Khong",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Na Kian",
+        "DistrictEngShort": "Omkoi"
+    },
+    {
+        "TambonEng": "Yang Noeng",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Saraphi",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Chomphu",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Chai Sathan",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Khua Mung",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Nong Faek",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Nong Phueng",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Tha Kwang",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Don Kaeo",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Tha Wang Tan",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "San Sai",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Pa Bong",
+        "DistrictEngShort": "Saraphi"
+    },
+    {
+        "TambonEng": "Mueang Haeng",
+        "DistrictEngShort": "Wiang Haeng"
+    },
+    {
+        "TambonEng": "Piang Luang",
+        "DistrictEngShort": "Wiang Haeng"
+    },
+    {
+        "TambonEng": "Saen Hai",
+        "DistrictEngShort": "Wiang Haeng"
+    },
+    {
+        "TambonEng": "Pong Tam",
+        "DistrictEngShort": "Chai Prakan"
+    },
+    {
+        "TambonEng": "Si Dong Yen",
+        "DistrictEngShort": "Chai Prakan"
+    },
+    {
+        "TambonEng": "Mae Thalop",
+        "DistrictEngShort": "Chai Prakan"
+    },
+    {
+        "TambonEng": "Nong Bua",
+        "DistrictEngShort": "Chai Prakan"
+    },
+    {
+        "TambonEng": "Ban Kat",
+        "DistrictEngShort": "Mae Wang"
+    },
+    {
+        "TambonEng": "Thung Pi",
+        "DistrictEngShort": "Mae Wang"
+    },
+    {
+        "TambonEng": "Thung Ruang Thong",
+        "DistrictEngShort": "Mae Wang"
+    },
+    {
+        "TambonEng": "Mae Win",
+        "DistrictEngShort": "Mae Wang"
+    },
+    {
+        "TambonEng": "Don Pao",
+        "DistrictEngShort": "Mae Wang"
+    },
+    {
+        "TambonEng": "On Nuea",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "On Klang",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "Ban Sahakon",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "Huai Kaeo",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "Mae Tha",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "Tha Nuea",
+        "DistrictEngShort": "Mae On"
+    },
+    {
+        "TambonEng": "Doi Lo",
+        "DistrictEngShort": "Doi Lo"
+    },
+    {
+        "TambonEng": "Song Khwae",
+        "DistrictEngShort": "Doi Lo"
+    },
+    {
+        "TambonEng": "Yang Khram",
+        "DistrictEngShort": "Doi Lo"
+    },
+    {
+        "TambonEng": "Santi Suk",
+        "DistrictEngShort": "Doi Lo"
+    },
+    {
+        "TambonEng": "Ban Chan",
+        "DistrictEngShort": "Galayani Vadhana"
+    },
+    {
+        "TambonEng": "Mae Daet",
+        "DistrictEngShort": "Galayani Vadhana"
+    },
+    {
+        "TambonEng": "Chaem Luang",
+        "DistrictEngShort": "Galayani Vadhana"
+    }
+]

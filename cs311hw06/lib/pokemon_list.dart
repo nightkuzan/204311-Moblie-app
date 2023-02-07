@@ -15,13 +15,11 @@ class PokemonList extends StatefulWidget {
 class _PokemonListState extends State<PokemonList> {
   int selected = 0;
 
-  isTapped(int index, PokemonThem pt) async {
-    final pokemonthem = await fetchPokemonInfo(index + 1);
+  void isTapped(int index, PokemonThem pt) async {
+    pt.changeTheme(index);
     setState(() {
       selected = index;
     });
-    String them = pokemonthem.typesToString();
-    pt.changeTheme(them);
   }
 
   @override

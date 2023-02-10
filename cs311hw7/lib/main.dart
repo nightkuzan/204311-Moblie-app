@@ -135,7 +135,7 @@ class _MyWidgetState extends State<MyWidget> {
                   }
                   return options.where((String option) {
                     //เช็คว่า option มีค่าเท่ากับ textEditingValue หรือไม่
-                    return option[0]
+                    return option
                         //เช็คว่า option มีค่าเท่ากับ textEditingValue หรือไม่
                         .toLowerCase() //เปลี่ยน option ให้เป็นตัวเล็กทั้งหมด
                         .contains(textEditingValue.text
